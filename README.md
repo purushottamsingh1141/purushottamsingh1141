@@ -103,6 +103,6 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
   <a/>
 </div>
 <br>
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.buymeacoffee.com/rmznctnky"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="purushottamsingh1141" /></a>
-</div>
+</div> -->
