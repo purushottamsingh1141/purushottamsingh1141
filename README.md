@@ -41,7 +41,7 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 <h3 align="left">My expertise encompasses:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,r,html,css,js,bootstrap,react,redux,nextjs,ts,nodejs,npm,express,mongodb,mysql,postman,eclipse,visualstudio,vite,vscode,github,git,linux,ubuntu,replit" />
+    <img src="https://skillicons.dev/icons?i=c,py,html,css,js,bootstrap,react,redux,nextjs,ts,nodejs,npm,express,mongodb,mysql,postman,visualstudio,vite,vscode,github,git,linux,ubuntu" />
   </a>
 </p>
  <!--  DIVIDER  -->
