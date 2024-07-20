@@ -77,7 +77,7 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/purushottam-singh-686286249/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"alt="https://www.linkedin.com/in/prabhakar-vats/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/purushottam-singh-686286249/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"alt="https://www.linkedin.com/in/purushottam-singh-686286249/" height="30" width="40" /></a>
 
 <a href="https://mail.google.com/mail/" target="blank"><img src="https://skillicons.dev/icons?i=gmail alt="https://mail.google.com/mail/" height="30" width="40" /></a>
 
